@@ -16,7 +16,7 @@ By reviewing the dataframe below we can see the majority of Pyber revenues come 
 
 ![Fares_by_City_Type.PNG](https://github.com/worksm/PyBer_Analysis/blob/01afaa686a2437b95a7e5f44cce70b5274937e4f/Resources/Fares_by_City_Type.png)
 
-Summary:
+## Summary:
 
 Following the PyBer analysis there are three business recommendations for executive review. 
  * 1. Complete further demographic analysis of Suburban and Rural ride share users to create a marketing strategy to increase utiliation and drivers within those cities. 
